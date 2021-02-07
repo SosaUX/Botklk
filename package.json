@@ -1,0 +1,20 @@
+{
+  "name": "dg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node .": "node run index.js"
+  },
+  "author": "ByMiniYT",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "djs-commands": "^1.2.2",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  }
+}
